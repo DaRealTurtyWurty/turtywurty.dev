@@ -1,0 +1,22 @@
+.dropdown-content {
+    position: fixed;
+    display: inline-block;
+}
+  
+.dropdown-content {
+    min-width: 200px;
+    overflow: auto;
+    z-index: 1;
+}
+
+.dropdown-content ul li a {
+    color: black;
+    padding: 16px 16px;
+    text-decoration: none;
+    display: block;
+    max-height: 54px;
+}
+
+.dropdown-content ul li {
+    list-style: none;
+}
