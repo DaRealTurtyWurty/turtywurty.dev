@@ -1,0 +1,28 @@
+{
+  "name": "turtywurty.dev",
+  "version": "1.0.0",
+  "description": "My portfolio website",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DaRealTurtyWurty/turtywurty.dev.git"
+  },
+  "keywords": [
+    "website",
+    "js",
+    "html",
+    "css",
+    "portfolio",
+    "programming",
+    "coding"
+  ],
+  "author": "TurtyWurty",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DaRealTurtyWurty/turtywurty.dev/issues"
+  },
+  "homepage": "https://github.com/DaRealTurtyWurty/turtywurty.dev#readme"
+}
